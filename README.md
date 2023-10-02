@@ -24,7 +24,7 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saif64&theme=dracula)  -->
 - 👋 Hi, I’m [@Saif64s](https://github.com/Saif64s)
 - 👀 I’m interested in mostly coding, problem solving and building new softwares 
-- 🌱 I’m currently studying at Brac University
+- 🌱 I’m currently working as SWE @Selise Digital Platform
 - 💞️ I’m looking to collaborate on many open source projects and want to build my own open source project so that I can help as much people as I can.
 - my skillsets are <br>
     [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,kotlin,bash,dart,flutter,nodejs,react,mongodb,python,linux,git)](https://skillicons.dev)    
