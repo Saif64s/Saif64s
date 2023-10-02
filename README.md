@@ -29,3 +29,6 @@
 - my skillsets are <br>
     [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,kotlin,bash,dart,flutter,nodejs,react,mongodb,python,linux,git)](https://skillicons.dev)    
 ---
+| Project Name| Technology USed|
+|:-----------:|:---------------:|
+| [Ng-Feed 🔐](https://github.com/Saif64/Ng-Feed) | `Angular,Bootstrap5,Angular-Material`
